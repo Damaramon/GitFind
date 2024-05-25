@@ -1,45 +1,18 @@
-The pet feeder I have created serves to facilitate busy pet owners who may not have the time to care for their pets at home. This pet feeder can be remotely controlled through a mobile application using the MQTT protocol. The programming languages employed in this project include Java, Golang, and Arduino.
-
+GitFind is an advanced Android application meticulously crafted to revolutionize the way users search for GitHub profiles. By integrating directly with the GitHub API, GitFind offers a seamless and efficient experience, enabling users to quickly retrieve and review comprehensive data about GitHub users. The app not only simplifies the search process but also allows users to curate a personalized favorites list, storing preferred GitHub profiles for easy access anytime.
 ##  **Tech Stack**
 <table>
   <tr>
-    <!-- Kolom untuk gambar dan teks Java -->
     <td>
-      <img src="https://github.com/Damaramon/Arpet-Feeder/assets/128273587/3ab87199-09d9-4c91-abed-f122c3c1a9aa" alt="Java" style="width: 70px; vertical-align: middle;">
+      <img src="https://github.com/Damaramon/GitFind/assets/128273587/4486605f-2906-4704-87f9-cf9b39364707" alt="Kotlin" style="width: 70px; vertical-align: middle;">
     </td>
     <td>
-      Java (Android Studio)
-    </td>
-  </tr>
-  <tr>
-    <!-- Kolom untuk gambar dan teks MQTT -->
-    <td>
-      <img src="https://github.com/Damaramon/Arpet-Feeder/assets/128273587/b19d4789-1b84-44e3-aec2-71cc951de088" alt="MQTT" style="width: 70px; vertical-align: middle;">
-    </td>
-    <td>
-      MQTT
+    Kotlin
     </td>
   </tr>
-  <tr>
-    <!-- Kolom untuk gambar dan teks Golang -->
-    <td>
-      <img src="https://github.com/Damaramon/Arpet-Feeder/assets/128273587/1cebfd43-7cb8-4199-9abb-cb25ee0cc6b5" alt="Golang" style="width: 70px; vertical-align: middle;">
-    </td>
-    <td>
-      Golang
-    </td>
-  </tr>
-  <tr>
-    <!-- Kolom untuk gambar dan teks Arduino -->
-    <td>
-      <img src="https://github.com/Damaramon/Arpet-Feeder/assets/128273587/51533eb8-8ddc-4fc6-a4a9-ce5d106d1286" alt="Arduino" style="width: 70px; vertical-align: middle;">
-    </td>
-    <td>
-      Arduino
-    </td>
-  </tr>
+
 </table>
 
 
 ##  **Preview Aplikasi**
-![image](https://github.com/Damaramon/Arpet-Feeder/assets/128273587/315b223c-45a4-4b69-bcbc-1e7ebdf68a75)
+![image](https://github.com/Damaramon/GitFind/assets/128273587/d79c6a7c-4b98-43b1-8f57-befb160635f1)
+
